@@ -13,6 +13,12 @@ Pour lancer l'application sur un émulateur ou un appareil physique, exécutez l
 
 npx expo start
 
+.vous aurez plusieurs options de choix d'appareil qui apparaitront dans la console de votre terminal.
+vous n'aurez qu'a faire un choix.
+
+.Pour lancer le projet sur votre appareil mobile telecharger l'application "expo" de puis votre appStore ou playstore (https://play.google.com/store/apps/details?id=host.exp.exponent).
+suivez les etapes puis scanner le qrcode qui se trouve dans votre terminal.
+
 Technologies utilisées
 
 React Native - Framework pour le développement d'applications mobiles multiplateformes.
